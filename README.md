@@ -1,6 +1,6 @@
 # Veterinaria Js
 
-Esta es una aplicación backend desarrollada en Node.js que registra las horas de atención en una veterinaria.
+Esta es una aplicación backend desarrollada en Node.js que registra los datos de atención en una veterinaria.
 
 ## Uso
 
